@@ -84,7 +84,7 @@ function conjugate(verb) {
 
 const PRONOUNS = ['yo', 'tú', 'él', 'nosotros', 'ellos'];
 
-function InputValue({ conjugation, pronoun, onInput, value }) {
+function InputValue({ conjugation, pronoun, onInput, value, autofocus }) {
   let wide = conjugation.length > 10;
 
   let correct = value.trim().toLowerCase() === conjugation;
@@ -102,6 +102,7 @@ function InputValue({ conjugation, pronoun, onInput, value }) {
       type="text"
       value=${value}
       onInput=${onInput}
+      autofocus=${autofocus}
     />
     <span class="text-xl text-gray-700">${pronoun}</span>
   </div>`;
@@ -140,7 +141,19 @@ function Exercise({
       onInput.call(null, v);
     };
 
-  return html`<div class="flex-1 flex flex-col justify-center h-96">
+  // Hack to focus first empty input?
+  const rootRef = useRef(null);
+  useEffect(() => {
+    let $empty = Array.from(rootRef.current?.querySelectorAll('input')).find(
+      ($input) => !$input.value.trim()
+    );
+    $empty?.focus();
+  }, []);
+
+  return html`<div
+    ref=${rootRef}
+    class="flex-1 flex flex-col justify-center h-96"
+  >
     <div class="flex-1 flex flex-col justify-center items-center">
       <div class="text-6xl">${verb}</div>
       <div class="text-xl mt-2">${tense}</div>
@@ -148,6 +161,7 @@ function Exercise({
     <div class="flex flex-row gap-4 justify-center">
       ${conjugations.map(
         (conj, i) => html`<${InputValue}
+          autofocus=${i === 0}
           conjugation=${conj}
           pronoun=${PRONOUNS[i]}
           onInput=${input(i)}
@@ -205,7 +219,7 @@ function App() {
       (currConj, i) => conjugations[i] == currConj.trim().toLowerCase()
     ) ?? false;
 
-  let move = (n) => () => {
+  let move = (n) => {
     n = Math.max(0, Math.min(seq.length - 1, n));
     if (i !== n) {
       setI(n);
@@ -218,14 +232,22 @@ function App() {
     const fn = (e) => {
       if (e.getModifierState('Control') && e.key === '0') {
         exRef.current?.fill();
+      } else if (e.key === 'Enter') {
+        if (allCorrect) {
+          move(i + 1);
+        }
       }
     };
     window.addEventListener('keydown', fn);
     () => window.removeEventListener('keydown', fn);
-  });
+  }, [move, allCorrect]);
 
   return html`<div class="h-screen flex flex-row items-center">
-    <${PageButton} side="left" disabled=${i === 0} onClick=${move(i - 1)} />
+    <${PageButton}
+      side="left"
+      disabled=${i === 0}
+      onClick=${() => move(i - 1)}
+    />
     <${Exercise}
       handleRef=${exRef}
       key=${verb}
@@ -238,7 +260,7 @@ function App() {
     <${PageButton}
       side="right"
       disabled=${!allCorrect || i === seq.length - 1}
-      onClick=${move(i + 1)}
+      onClick=${() => move(i + 1)}
     />
   </div>`;
 }
