@@ -14,6 +14,7 @@ twind.install({
 const VERBS = await fetch('./verbs.json', { cache: 'force-cache' }).then(
   (res) => res.json()
 );
+const CONJUGATIONS = new Map();
 const ALL_VERBS = [...VERBS.regular, ...Object.keys(VERBS.irregular)];
 
 const REGULAR_ENDINGS = {
@@ -75,11 +76,17 @@ function irregularConjugate(verb) {
 }
 
 function conjugate(verb) {
-  if (verb in VERBS.irregular) {
-    return irregularConjugate(verb);
-  } else {
-    return regularConjugate(verb);
+  let cache = CONJUGATIONS.get(verb);
+  if (cache) {
+    return cache;
   }
+  if (verb in VERBS.irregular) {
+    cache = irregularConjugate(verb);
+  } else {
+    cache = regularConjugate(verb);
+  }
+  CONJUGATIONS.set(verb, cache);
+  return cache;
 }
 
 const PRONOUNS = ['yo', 'tú', 'él', 'nosotros', 'ellos'];
@@ -108,6 +115,40 @@ function InputValue({ conjugation, pronoun, onInput, value, autofocus }) {
   </div>`;
 }
 
+function belongsToAnotherTense(value, verb, tense, person) {
+  value = value.trim().toLowerCase();
+  let conjugations = conjugate(verb);
+  if (!value || conjugations[tense][person].startsWith(value)) {
+    return false;
+  }
+  for (let t in conjugations) {
+    if (t === tense) {
+      let i = conjugations[tense].indexOf(value);
+      if (i !== -1) {
+        return 'person';
+      }
+    } else {
+      if (conjugations[t][person] === value) {
+        return 'tense';
+      }
+    }
+  }
+  return false;
+}
+
+function shake($el) {
+  $el.animate(
+    [
+      { transform: 'translateX(0)' },
+      { transform: 'translateX(5px)' },
+      { transform: 'translateX(-5px)' },
+      { transform: 'translateX(5px)' },
+      { transform: 'translateX(0)' },
+    ],
+    { duration: 200 }
+  );
+}
+
 function Exercise({
   verb,
   tense,
@@ -132,6 +173,8 @@ function Exercise({
     []
   );
 
+  const tenseRef = useRef(null);
+
   const input =
     (i) =>
     ({ target }) => {
@@ -139,6 +182,14 @@ function Exercise({
       v[i] = target.value;
       setValues(v);
       onInput.call(null, v);
+
+      let belongsTo = belongsToAnotherTense(target.value, verb, tense, i);
+      if (belongsTo === 'tense') {
+        shake(tenseRef.current);
+      } else if (belongsTo === 'person') {
+        // Kind of ugly
+        shake(target);
+      }
     };
 
   // Hack to focus first empty input?
@@ -156,7 +207,7 @@ function Exercise({
   >
     <div class="flex-1 flex flex-col justify-center items-center">
       <div class="text-6xl">${verb}</div>
-      <div class="text-xl mt-2">${tense}</div>
+      <div ref=${tenseRef} class="text-xl mt-2">${tense}</div>
     </div>
     <div class="flex flex-row gap-4 justify-center">
       ${conjugations.map(
