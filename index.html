@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Con-ju-ga-tor</title>
+    <script type="importmap">
+      {
+        "imports": {
+          "preact": "https://esm.sh/preact@10.26.8",
+          "preact/hooks": "https://esm.sh/preact@10.26.8/hooks",
+          "htm/preact": "https://esm.sh/htm@3.1.1/preact?external=preact"
+        }
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.bunny.net" />
+    <link href="https://fonts.bunny.net/css?family=sono:400" rel="stylesheet" />
+    <script src="https://cdn.twind.style/ext,typography" crossorigin></script>
+    <script>
+      twind.install({
+        presets: [twind.presetExt(), twind.presetTypography()],
+        theme: { extend: { fontFamily: { sans: 'Sono, sans-serif' } } },
+      });
+    </script>
+    <script type="module" src="./conjugator.js"></script>
+  </head>
+  <body>
+    <div id="root" style="min-height: 100vh"></div>
+  </body>
+</html>
