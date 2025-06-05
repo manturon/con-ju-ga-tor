@@ -2,7 +2,9 @@ import { render } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
 import { html } from 'htm/preact';
 
-const VERBS = await fetch('./verbs.json').then((res) => res.json());
+const VERBS = await fetch('./verbs.json', { cache: 'force-cache' }).then(
+  (res) => res.json()
+);
 const ALL_VERBS = [...VERBS.regular, ...Object.keys(VERBS.irregular)];
 
 const REGULAR_ENDINGS = {

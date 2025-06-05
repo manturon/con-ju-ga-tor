@@ -296,7 +296,7 @@
       "subjuntivo": ["acerque", "acerques", "acerque", "acerquemos", "acerquen"]
     },
     "acontecer": {
-      "present": ["acontezco", null, null, null, null],
+      "presente": ["acontezco", null, null, null, null],
       "subjuntivo": [
         "acontezca",
         "acontezcas",
@@ -306,19 +306,19 @@
       ]
     },
     "acordar": {
-      "present": ["acuerdo", "acuerdas", "acuerda", null, "acuerdan"],
+      "presente": ["acuerdo", "acuerdas", "acuerda", null, "acuerdan"],
       "subjuntivo": ["acuerde", "acuerdes", "acuerde", null, "acuerden"]
     },
     "acostar": {
-      "present": ["acuesto", "acuestas", "acuesta", null, "acuestan"],
+      "presente": ["acuesto", "acuestas", "acuesta", null, "acuestan"],
       "subjuntivo": ["acueste", "acuestes", "acueste", null, "acuesten"]
     },
     "actuar": {
-      "present": ["actúo", "actúas", "actúa", null, "actúan"],
+      "presente": ["actúo", "actúas", "actúa", null, "actúan"],
       "subjuntivo": ["actúe", "actúes", "actúe", null, "actúen"]
     },
     "advertir": {
-      "present": ["advierto", "adviertes", "advierte", null, "advierten"],
+      "presente": ["advierto", "adviertes", "advierte", null, "advierten"],
       "pretérito": [null, null, "advirtió", null, "advirtieron"],
       "subjuntivo": [
         "advierta",
@@ -329,15 +329,15 @@
       ]
     },
     "afligir": {
-      "present": ["aflijo", null, null, null, null],
+      "presente": ["aflijo", null, null, null, null],
       "subjuntivo": ["aflija", "aflijas", "aflija", "aflijamos", "aflijan"]
     },
     "agorar": {
-      "present": ["agüero", "agüeras", "agüera", null, "agüeran"],
+      "presente": ["agüero", "agüeras", "agüera", null, "agüeran"],
       "subjuntivo": ["agüere", "agüeres", "agüere", null, "agüeren"]
     },
     "agradecer": {
-      "present": ["agradezco", null, null, null, null],
+      "presente": ["agradezco", null, null, null, null],
       "subjuntivo": [
         "agradezca",
         "agradezcas",
@@ -355,11 +355,11 @@
       "subjuntivo": ["alcance", "alcances", "alcance", "alcancemos", "alcancen"]
     },
     "alentar": {
-      "present": ["aliento", "alientas", "alienta", null, "alientan"],
+      "presente": ["aliento", "alientas", "alienta", null, "alientan"],
       "subjuntivo": ["aliente", "alientes", "aliente", null, "alienten"]
     },
     "almorzar": {
-      "present": ["almuerzo", "almuerzas", "almuerza", null, "almuerzan"],
+      "presente": ["almuerzo", "almuerzas", "almuerza", null, "almuerzan"],
       "pretérito": ["almorcé", null, null, null, null],
       "subjuntivo": [
         "almuerce",
@@ -370,7 +370,7 @@
       ]
     },
     "amanecer": {
-      "present": ["amanezco", null, null, null, null],
+      "presente": ["amanezco", null, null, null, null],
       "subjuntivo": [
         "amanezca",
         "amanezcas",
@@ -391,7 +391,7 @@
       "subjuntivo": ["apague", "apagues", "apague", "apaguemos", "apaguen"]
     },
     "aparecer": {
-      "present": ["aparezco", null, null, null, null],
+      "presente": ["aparezco", null, null, null, null],
       "subjuntivo": [
         "aparezca",
         "aparezcas",
@@ -405,15 +405,15 @@
       "subjuntivo": ["aplique", "apliques", "aplique", "apliquemos", "apliquen"]
     },
     "apostar": {
-      "present": ["apuesto", "apuestas", "apuesta", null, "apuestan"],
+      "presente": ["apuesto", "apuestas", "apuesta", null, "apuestan"],
       "subjuntivo": ["apueste", "apuestes", "apueste", null, "apuesten"]
     },
     "apretar": {
-      "present": ["aprieto", "aprietas", "aprieta", null, "aprietan"],
+      "presente": ["aprieto", "aprietas", "aprieta", null, "aprietan"],
       "subjuntivo": ["apriete", "aprietes", "apriete", null, "aprieten"]
     },
     "aprobar": {
-      "present": ["apruebo", "apruebas", "aprueba", null, "aprueban"],
+      "presente": ["apruebo", "apruebas", "aprueba", null, "aprueban"],
       "subjuntivo": ["apruebe", "apruebes", "apruebe", null, "aprueben"]
     },
     "atacar": {
@@ -421,16 +421,16 @@
       "subjuntivo": ["ataque", "ataques", "ataque", "ataquemos", "ataquen"]
     },
     "atender": {
-      "present": ["atiendo", "atiendes", "atiende", null, "atienden"],
+      "presente": ["atiendo", "atiendes", "atiende", null, "atienden"],
       "subjuntivo": ["atienda", "atiendas", "atienda", null, "atiendan"]
     },
     "atraer": {
-      "present": ["atraigo", null, null, null, null],
+      "presente": ["atraigo", null, null, null, null],
       "pretérito": ["atraje", "atrajiste", "atrajo", "atrajimos", "atrajeron"],
       "subjuntivo": ["atraiga", "atraigas", "atraiga", "atraigamos", "atraigan"]
     },
     "atravesar": {
-      "present": ["atravieso", "atraviesas", "atraviesa", null, "atraviesan"],
+      "presente": ["atravieso", "atraviesas", "atraviesa", null, "atraviesan"],
       "subjuntivo": ["atraviese", "atravieses", "atraviese", null, "atraviesen"]
     },
     "avanzar": {
@@ -452,7 +452,7 @@
       "subjuntivo": ["bautice", "bautices", "bautice", "bauticemos", "bauticen"]
     },
     "bendecir": {
-      "present": ["bendigo", "bendices", "bendice", null, "bendicen"],
+      "presente": ["bendigo", "bendices", "bendice", null, "bendicen"],
       "pretérito": [
         "bendije",
         "bendijiste",
@@ -467,19 +467,19 @@
       "subjuntivo": ["busque", "busques", "busque", "busquemos", "busquen"]
     },
     "caber": {
-      "present": ["quepo", null, null, null, null],
+      "presente": ["quepo", null, null, null, null],
       "futuro": ["cabré", "cabrás", "cabrá", "cabremos", "cabrán"],
       "pretérito": ["cupe", "cupiste", "cupo", "cupimos", "cupieron"],
       "condicional": ["cabría", "cabrías", "cabría", "cabríamos", "cabrían"],
       "subjuntivo": ["quepa", "quepas", "quepa", "quepamos", "quepan"]
     },
     "caer": {
-      "present": ["caigo", null, null, null, null],
+      "presente": ["caigo", null, null, null, null],
       "pretérito": [null, "caíste", "cayó", "caímos", "cayeron"],
       "subjuntivo": ["caiga", "caigas", "caiga", "caigamos", "caigan"]
     },
     "calentar": {
-      "present": ["caliento", "calientas", "calienta", null, "calientan"],
+      "presente": ["caliento", "calientas", "calienta", null, "calientan"],
       "subjuntivo": ["caliente", "calientes", "caliente", null, "calienten"]
     },
     "caracterizar": {
@@ -511,7 +511,7 @@
       "subjuntivo": ["cace", "caces", "cace", "cacemos", "cacen"]
     },
     "cerrar": {
-      "present": ["cierro", "cierras", "cierra", null, "cierran"],
+      "presente": ["cierro", "cierras", "cierra", null, "cierran"],
       "subjuntivo": ["cierre", "cierres", "cierre", null, "cierren"]
     },
     "chocar": {
@@ -549,11 +549,11 @@
       ]
     },
     "coger": {
-      "present": ["cojo", null, null, null, null],
+      "presente": ["cojo", null, null, null, null],
       "subjuntivo": ["coja", "cojas", "coja", "cojamos", "cojan"]
     },
     "colgar": {
-      "present": ["cuelgo", "cuelgas", "cuelga", null, "cuelgan"],
+      "presente": ["cuelgo", "cuelgas", "cuelga", null, "cuelgan"],
       "pretérito": ["colgué", null, null, null, null],
       "subjuntivo": ["cuelgue", "cuelgues", "cuelgue", "colguemos", "cuelguen"]
     },
@@ -572,7 +572,7 @@
       ]
     },
     "comenzar": {
-      "present": ["comienzo", "comienzas", "comienza", null, "comienzan"],
+      "presente": ["comienzo", "comienzas", "comienza", null, "comienzan"],
       "pretérito": ["comencé", null, null, null, null],
       "subjuntivo": [
         "comience",
@@ -583,7 +583,7 @@
       ]
     },
     "competir": {
-      "present": ["compito", "compites", "compite", null, "compiten"],
+      "presente": ["compito", "compites", "compite", null, "compiten"],
       "pretérito": [null, null, "compitió", null, "compitieron"],
       "subjuntivo": ["compita", "compitas", "compita", "compitamos", "compitan"]
     },
@@ -598,7 +598,7 @@
       ]
     },
     "componer": {
-      "present": ["compongo", null, null, null, null],
+      "presente": ["compongo", null, null, null, null],
       "futuro": [
         "compondré",
         "compondrás",
@@ -639,7 +639,7 @@
       ]
     },
     "conducir": {
-      "present": ["conduzco", null, null, null, null],
+      "presente": ["conduzco", null, null, null, null],
       "pretérito": [
         "conduje",
         "condujiste",
@@ -656,11 +656,11 @@
       ]
     },
     "confesar": {
-      "present": ["confieso", "confiesas", "confiesa", null, "confiesan"],
+      "presente": ["confieso", "confiesas", "confiesa", null, "confiesan"],
       "subjuntivo": ["confiese", "confieses", "confiese", null, "confiesen"]
     },
     "confiar": {
-      "present": ["confío", "confías", "confía", null, "confían"],
+      "presente": ["confío", "confías", "confía", null, "confían"],
       "subjuntivo": ["confíe", "confíes", "confíe", null, "confíen"]
     },
     "confiscar": {
@@ -684,16 +684,16 @@
       ]
     },
     "conocer": {
-      "present": ["conozco", null, null, null, null],
+      "presente": ["conozco", null, null, null, null],
       "subjuntivo": ["conozca", "conozcas", "conozca", "conozcamos", "conozcan"]
     },
     "conseguir": {
-      "present": ["consigo", "consigues", "consigue", null, "consiguen"],
+      "presente": ["consigo", "consigues", "consigue", null, "consiguen"],
       "pretérito": [null, null, "consiguió", null, "consiguieron"],
       "subjuntivo": ["consiga", "consigas", "consiga", "consigamos", "consigan"]
     },
     "consentir": {
-      "present": ["consiento", "consientes", "consiente", null, "consienten"],
+      "presente": ["consiento", "consientes", "consiente", null, "consienten"],
       "pretérito": [null, null, "consintió", null, "consintieron"],
       "subjuntivo": [
         "consienta",
@@ -704,7 +704,7 @@
       ]
     },
     "constituir": {
-      "present": [
+      "presente": [
         "constituyo",
         "constituyes",
         "constituye",
@@ -721,7 +721,7 @@
       ]
     },
     "construir": {
-      "present": ["construyo", "construyes", "construye", null, "construyen"],
+      "presente": ["construyo", "construyes", "construye", null, "construyen"],
       "pretérito": [null, null, "construyó", null, "construyeron"],
       "subjuntivo": [
         "construya",
@@ -732,11 +732,11 @@
       ]
     },
     "contar": {
-      "present": ["cuento", "cuentas", "cuenta", null, "cuentan"],
+      "presente": ["cuento", "cuentas", "cuenta", null, "cuentan"],
       "subjuntivo": ["cuente", "cuentes", "cuente", null, "cuenten"]
     },
     "contener": {
-      "present": ["contengo", "contienes", "contiene", null, "contienen"],
+      "presente": ["contengo", "contienes", "contiene", null, "contienen"],
       "futuro": [
         "contendré",
         "contendrás",
@@ -767,11 +767,11 @@
       ]
     },
     "continuar": {
-      "present": ["continúo", "continúas", "continúa", null, "continúan"],
+      "presente": ["continúo", "continúas", "continúa", null, "continúan"],
       "subjuntivo": ["continúe", "continúes", "continúe", null, "continúen"]
     },
     "contribuir": {
-      "present": [
+      "presente": [
         "contribuyo",
         "contribuyes",
         "contribuye",
@@ -788,7 +788,7 @@
       ]
     },
     "convencer": {
-      "present": ["convenzo", null, null, null, null],
+      "presente": ["convenzo", null, null, null, null],
       "subjuntivo": [
         "convenza",
         "convenzas",
@@ -798,7 +798,7 @@
       ]
     },
     "convenir": {
-      "present": ["convengo", "convienes", "conviene", null, "convienen"],
+      "presente": ["convengo", "convienes", "conviene", null, "convienen"],
       "futuro": [
         "convendré",
         "convendrás",
@@ -829,7 +829,7 @@
       ]
     },
     "convertir": {
-      "present": ["convierto", "conviertes", "convierte", null, "convierten"],
+      "presente": ["convierto", "conviertes", "convierte", null, "convierten"],
       "pretérito": [null, null, "convirtió", null, "convirtieron"],
       "subjuntivo": [
         "convierta",
@@ -840,23 +840,21 @@
       ]
     },
     "corregir": {
-      "present": ["corrijo", "corriges", "corrige", null, "corrigen"],
+      "presente": ["corrijo", "corriges", "corrige", null, "corrigen"],
       "pretérito": [null, null, "corrigió", null, "corrigieron"],
       "subjuntivo": ["corrija", "corrijas", "corrija", "corrijamos", "corrijan"]
     },
     "costar": {
-      "present": ["cuesto", "cuestas", "cuesta", null, "cuestan"],
+      "presente": ["cuesto", "cuestas", "cuesta", null, "cuestan"],
       "subjuntivo": ["cueste", "cuestes", "cueste", null, "cuesten"]
     },
     "crecer": {
-      "present": ["crezco", null, null, null, null],
+      "presente": ["crezco", null, null, null, null],
       "subjuntivo": ["crezca", "crezcas", "crezca", "crezcamos", "crezcan"]
     },
-    "creer": {
-      "pretérito": [null, "creíste", "creyó", "creímos", "creyeron"]
-    },
+    "creer": { "pretérito": [null, "creíste", "creyó", "creímos", "creyeron"] },
     "criar": {
-      "present": ["crío", "crías", "cría", null, "crían"],
+      "presente": ["crío", "crías", "cría", null, "crían"],
       "pretérito": [null, null, "crió", null, null],
       "subjuntivo": ["críe", "críes", "críe", null, "críen"]
     },
@@ -886,12 +884,12 @@
     },
     "cubrir": {},
     "dar": {
-      "present": ["doy", null, null, null, null],
+      "presente": ["doy", null, null, null, null],
       "pretérito": ["di", "diste", "dio", "dimos", "dieron"],
       "subjuntivo": ["dé", null, "dé", null, null]
     },
     "decir": {
-      "present": ["digo", "dices", "dice", null, "dicen"],
+      "presente": ["digo", "dices", "dice", null, "dicen"],
       "futuro": ["diré", "dirás", "dirá", "diremos", "dirán"],
       "pretérito": ["dije", "dijiste", "dijo", "dijimos", "dijeron"],
       "condicional": ["diría", "dirías", "diría", "diríamos", "dirían"],
@@ -902,20 +900,20 @@
       "subjuntivo": ["dedique", "dediques", "dedique", "dediquemos", "dediquen"]
     },
     "defender": {
-      "present": ["defiendo", "defiendes", "defiende", null, "defienden"],
+      "presente": ["defiendo", "defiendes", "defiende", null, "defienden"],
       "subjuntivo": ["defienda", "defiendas", "defienda", null, "defiendan"]
     },
     "demostrar": {
-      "present": ["demuestro", "demuestras", "demuestra", null, "demuestran"],
+      "presente": ["demuestro", "demuestras", "demuestra", null, "demuestran"],
       "subjuntivo": ["demuestre", "demuestres", "demuestre", null, "demuestren"]
     },
     "derretir": {
-      "present": ["derrito", "derrites", "derrite", null, "derriten"],
+      "presente": ["derrito", "derrites", "derrite", null, "derriten"],
       "pretérito": [null, null, "derritió", null, "derritieron"],
       "subjuntivo": ["derrita", "derritas", "derrita", "derritamos", "derritan"]
     },
     "desagradecer": {
-      "present": ["desagradezco", null, null, null, null],
+      "presente": ["desagradezco", null, null, null, null],
       "subjuntivo": [
         "desagradezca",
         "desagradezcas",
@@ -925,7 +923,7 @@
       ]
     },
     "desaparecer": {
-      "present": ["desaparezco", null, null, null, null],
+      "presente": ["desaparezco", null, null, null, null],
       "subjuntivo": [
         "desaparezca",
         "desaparezcas",
@@ -935,13 +933,13 @@
       ]
     },
     "descender": {
-      "present": ["desciendo", "desciendes", "desciende", null, "descienden"],
+      "presente": ["desciendo", "desciendes", "desciende", null, "descienden"],
       "subjuntivo": ["descienda", "desciendas", "descienda", null, "desciendan"]
     },
     "describir": {},
     "descubrir": {},
     "deshacer": {
-      "present": ["deshago", null, null, null, null],
+      "presente": ["deshago", null, null, null, null],
       "futuro": ["desharé", "desharás", "deshará", "desharemos", "desharán"],
       "pretérito": [
         "deshice",
@@ -960,16 +958,16 @@
       "subjuntivo": ["deshaga", "deshagas", "deshaga", "deshagamos", "deshagan"]
     },
     "despedir": {
-      "present": ["despido", "despides", "despide", null, "despiden"],
+      "presente": ["despido", "despides", "despide", null, "despiden"],
       "pretérito": [null, null, "despidió", null, "despidieron"],
       "subjuntivo": ["despida", "despidas", "despida", "despidamos", "despidan"]
     },
     "despertar": {
-      "present": ["despierto", "despiertas", "despierta", null, "despiertan"],
+      "presente": ["despierto", "despiertas", "despierta", null, "despiertan"],
       "subjuntivo": ["despierte", "despiertes", "despierte", null, "despierten"]
     },
     "destruir": {
-      "present": ["destruyo", "destruyes", "destruye", null, "destruyen"],
+      "presente": ["destruyo", "destruyes", "destruye", null, "destruyen"],
       "pretérito": [null, null, "destruyó", null, "destruyeron"],
       "subjuntivo": [
         "destruya",
@@ -980,7 +978,7 @@
       ]
     },
     "detener": {
-      "present": ["detengo", "detienes", "detiene", null, "detienen"],
+      "presente": ["detengo", "detienes", "detiene", null, "detienen"],
       "futuro": [
         "detendré",
         "detendrás",
@@ -999,15 +997,15 @@
       "subjuntivo": ["detenga", "detengas", "detenga", "detengamos", "detengan"]
     },
     "devolver": {
-      "present": ["devuelvo", "devuelves", "devuelve", null, "devuelven"],
+      "presente": ["devuelvo", "devuelves", "devuelve", null, "devuelven"],
       "subjuntivo": ["devuelva", "devuelvas", "devuelva", null, "devuelvan"]
     },
     "dirigir": {
-      "present": ["dirijo", null, null, null, null],
+      "presente": ["dirijo", null, null, null, null],
       "subjuntivo": ["dirija", "dirijas", "dirija", "dirijamos", "dirijan"]
     },
     "disminuir": {
-      "present": ["disminuyo", "disminuyes", "disminuye", null, "disminuyen"],
+      "presente": ["disminuyo", "disminuyes", "disminuye", null, "disminuyen"],
       "pretérito": [null, null, "disminuyó", null, "disminuyeron"],
       "subjuntivo": [
         "disminuya",
@@ -1018,7 +1016,7 @@
       ]
     },
     "distinguir": {
-      "present": ["distingo", null, null, null, null],
+      "presente": ["distingo", null, null, null, null],
       "subjuntivo": [
         "distinga",
         "distingas",
@@ -1028,7 +1026,7 @@
       ]
     },
     "distribuir": {
-      "present": [
+      "presente": [
         "distribuyo",
         "distribuyes",
         "distribuye",
@@ -1045,7 +1043,7 @@
       ]
     },
     "divertir": {
-      "present": ["divierto", "diviertes", "divierte", null, "divierten"],
+      "presente": ["divierto", "diviertes", "divierte", null, "divierten"],
       "pretérito": [null, null, "divirtió", null, "divirtieron"],
       "subjuntivo": [
         "divierta",
@@ -1057,10 +1055,10 @@
     },
     "doler": {
       "subjuntivo": ["duela", "duelas", "duela", null, "duelan"],
-      "present": ["duelo", "dueles", "duele", null, "duelen"]
+      "presente": ["duelo", "dueles", "duele", null, "duelen"]
     },
     "dormir": {
-      "present": ["duermo", "duermes", "duerme", null, "duermen"],
+      "presente": ["duermo", "duermes", "duerme", null, "duermen"],
       "pretérito": [null, null, "durmió", null, "durmieron"],
       "subjuntivo": ["duerma", "duermas", "duerma", "durmamos", "duerman"]
     },
@@ -1069,33 +1067,33 @@
       "subjuntivo": ["eduque", "eduques", "eduque", "eduquemos", "eduquen"]
     },
     "efectuar": {
-      "present": ["efectúo", "efectúas", "efectúa", null, "efectúan"],
+      "presente": ["efectúo", "efectúas", "efectúa", null, "efectúan"],
       "subjuntivo": ["efectúe", "efectúes", "efectúe", null, "efectúen"]
     },
     "ejercer": {
-      "present": ["ejerzo", null, null, null, null],
+      "presente": ["ejerzo", null, null, null, null],
       "subjuntivo": ["ejerza", "ejerzas", "ejerza", "ejerzamos", "ejerzan"]
     },
     "elegir": {
-      "present": ["elijo", "eliges", "elige", null, "eligen"],
+      "presente": ["elijo", "eliges", "elige", null, "eligen"],
       "pretérito": [null, null, "eligió", null, "eligieron"],
       "subjuntivo": ["elija", "elijas", "elija", "elijamos", "elijan"]
     },
     "empezar": {
-      "present": ["empiezo", "empiezas", "empieza", null, "empiezan"],
+      "presente": ["empiezo", "empiezas", "empieza", null, "empiezan"],
       "pretérito": ["empecé", null, null, null, null],
       "subjuntivo": ["empiece", "empieces", "empiece", "empecemos", "empiecen"]
     },
     "encender": {
-      "present": ["enciendo", "enciendes", "enciende", null, "encienden"],
+      "presente": ["enciendo", "enciendes", "enciende", null, "encienden"],
       "subjuntivo": ["encienda", "enciendas", "encienda", null, "enciendan"]
     },
     "encontrar": {
-      "present": ["encuentro", "encuentras", "encuentra", null, "encuentran"],
+      "presente": ["encuentro", "encuentras", "encuentra", null, "encuentran"],
       "subjuntivo": ["encuentre", "encuentres", "encuentre", null, "encuentren"]
     },
     "enflaquecer": {
-      "present": ["enflaquezco", null, null, null, null],
+      "presente": ["enflaquezco", null, null, null, null],
       "subjuntivo": [
         "enflaquezca",
         "enflaquezcas",
@@ -1105,7 +1103,7 @@
       ]
     },
     "enriquecer": {
-      "present": ["enriquezco", null, null, null, null],
+      "presente": ["enriquezco", null, null, null, null],
       "subjuntivo": [
         "enriquezca",
         "enriquezcas",
@@ -1115,7 +1113,7 @@
       ]
     },
     "entender": {
-      "present": ["entiendo", "entiendes", "entiende", null, "entienden"],
+      "presente": ["entiendo", "entiendes", "entiende", null, "entienden"],
       "subjuntivo": ["entienda", "entiendas", "entienda", null, "entiendan"]
     },
     "entregar": {
@@ -1129,7 +1127,7 @@
       ]
     },
     "entretener": {
-      "present": [
+      "presente": [
         "entretengo",
         "entretienes",
         "entretiene",
@@ -1166,7 +1164,7 @@
       ]
     },
     "envejecer": {
-      "present": ["envejezco", null, null, null, null],
+      "presente": ["envejezco", null, null, null, null],
       "subjuntivo": [
         "envejezca",
         "envejezcas",
@@ -1176,7 +1174,7 @@
       ]
     },
     "enviar": {
-      "present": ["envío", "envías", "envía", null, "envían"],
+      "presente": ["envío", "envías", "envía", null, "envían"],
       "subjuntivo": ["envíe", "envíes", "envíe", null, "envíen"]
     },
     "equivocar": {
@@ -1190,20 +1188,20 @@
       ]
     },
     "errar": {
-      "present": ["yerro", "yerras", "yerra", null, "yerran"],
+      "presente": ["yerro", "yerras", "yerra", null, "yerran"],
       "subjuntivo": ["yerre", "yerres", "yerre", null, "yerren"]
     },
     "escoger": {
-      "present": ["escojo", null, null, null, null],
+      "presente": ["escojo", null, null, null, null],
       "subjuntivo": ["escoja", "escojas", "escoja", "escojamos", "escojan"]
     },
     "escribir": {},
     "esquiar": {
-      "present": ["esquío", "esquías", "esquía", null, "esquían"],
+      "presente": ["esquío", "esquías", "esquía", null, "esquían"],
       "subjuntivo": ["esquíe", "esquíes", "esquíe", null, "esquíen"]
     },
     "establecer": {
-      "present": ["establezco", null, null, null, null],
+      "presente": ["establezco", null, null, null, null],
       "subjuntivo": [
         "establezca",
         "establezcas",
@@ -1213,12 +1211,12 @@
       ]
     },
     "estar": {
-      "present": ["estoy", "estás", "está", null, "están"],
+      "presente": ["estoy", "estás", "está", null, "están"],
       "pretérito": ["estuve", "estuviste", "estuvo", "estuvimos", "estuvieron"],
       "subjuntivo": ["esté", "estés", "esté", null, "estén"]
     },
     "exigir": {
-      "present": ["exijo", null, null, null, null],
+      "presente": ["exijo", null, null, null, null],
       "subjuntivo": ["exija", "exijas", "exija", "exijamos", "exijan"]
     },
     "explicar": {
@@ -1232,7 +1230,7 @@
       ]
     },
     "exponer": {
-      "present": ["expongo", null, null, null, null],
+      "presente": ["expongo", null, null, null, null],
       "futuro": [
         "expondré",
         "expondrás",
@@ -1251,11 +1249,11 @@
       "subjuntivo": ["exponga", "expongas", "exponga", "expongamos", "expongan"]
     },
     "extender": {
-      "present": ["extiendo", "extiendes", "extiende", null, "extienden"],
+      "presente": ["extiendo", "extiendes", "extiende", null, "extienden"],
       "subjuntivo": ["extienda", "extiendas", "extienda", null, "extiendan"]
     },
     "extinguir": {
-      "present": ["extingo", null, null, null, null],
+      "presente": ["extingo", null, null, null, null],
       "subjuntivo": ["extinga", "extingas", "extinga", "extingamos", "extingan"]
     },
     "fabricar": {
@@ -1269,11 +1267,11 @@
       ]
     },
     "fingir": {
-      "present": ["finjo", null, null, null, null],
+      "presente": ["finjo", null, null, null, null],
       "subjuntivo": ["finja", "finjas", "finja", "finjamos", "finjan"]
     },
     "florecer": {
-      "present": ["florezco", null, null, null, null],
+      "presente": ["florezco", null, null, null, null],
       "subjuntivo": [
         "florezca",
         "florezcas",
@@ -1283,7 +1281,7 @@
       ]
     },
     "fortalecer": {
-      "present": ["fortalezco", null, null, null, null],
+      "presente": ["fortalezco", null, null, null, null],
       "subjuntivo": [
         "fortalezca",
         "fortalezcas",
@@ -1293,7 +1291,7 @@
       ]
     },
     "freír": {
-      "present": ["frío", "fríes", "fríe", "freímos", "fríen"],
+      "presente": ["frío", "fríes", "fríe", "freímos", "fríen"],
       "pretérito": [null, "freíste", "frió", "freímos", "frieron"],
       "subjuntivo": ["fría", "frías", "fría", "friamos", "frían"]
     },
@@ -1318,57 +1316,55 @@
       ]
     },
     "gobernar": {
-      "present": ["gobierno", "gobiernas", "gobierna", null, "gobiernan"],
+      "presente": ["gobierno", "gobiernas", "gobierna", null, "gobiernan"],
       "subjuntivo": ["gobierne", "gobiernes", "gobierne", null, "gobiernen"]
     },
     "graduar": {
-      "present": ["gradúo", "gradúas", "gradúa", null, "gradúan"],
+      "presente": ["gradúo", "gradúas", "gradúa", null, "gradúan"],
       "subjuntivo": ["gradúe", "gradúes", "gradúe", null, "gradúen"]
     },
-    "gruñir": {
-      "pretérito": [null, null, "gruñó", null, "gruñeron"]
-    },
+    "gruñir": { "pretérito": [null, null, "gruñó", null, "gruñeron"] },
     "guiar": {
-      "present": ["guío", "guías", "guía", null, "guían"],
+      "presente": ["guío", "guías", "guía", null, "guían"],
       "pretérito": ["guié", null, "guió", null, null],
       "subjuntivo": ["guíe", "guíes", "guíe", null, "guíen"]
     },
     "haber": {
-      "present": ["he", "has", "ha", "hemos", "han"],
+      "presente": ["he", "has", "ha", "hemos", "han"],
       "pretérito": ["hube", "hubiste", "hubo", "hubimos", "hubieron"],
       "condicional": ["habría", "habrías", "habría", "habríamos", "habrían"],
       "futuro": ["habré", "habrás", "habrá", "habremos", "habrán"],
       "subjuntivo": ["haya", "hayas", "haya", "hayamos", "hayan"]
     },
     "hacer": {
-      "present": ["hago", null, null, null, null],
+      "presente": ["hago", null, null, null, null],
       "futuro": ["haré", "harás", "hará", "haremos", "harán"],
       "pretérito": ["hice", "hiciste", "hizo", "hicimos", "hicieron"],
       "condicional": ["haría", "harías", "haría", "haríamos", "harían"],
       "subjuntivo": ["haga", "hagas", "haga", "hagamos", "hagan"]
     },
     "helar": {
-      "present": ["hielo", "hielas", "hiela", null, "hielan"],
+      "presente": ["hielo", "hielas", "hiela", null, "hielan"],
       "subjuntivo": ["hiele", "hieles", "hiele", null, "hielen"]
     },
     "herir": {
-      "present": ["hiero", "hieres", "hiere", null, "hieren"],
+      "presente": ["hiero", "hieres", "hiere", null, "hieren"],
       "pretérito": [null, null, "hirió", null, "hirieron"],
       "subjuntivo": ["hiera", "hieras", "hiera", "hiramos", "hieran"]
     },
     "hervir": {
-      "present": ["hiervo", "hierves", "hierve", null, "hierven"],
+      "presente": ["hiervo", "hierves", "hierve", null, "hierven"],
       "pretérito": [null, null, "hirvió", null, "hirvieron"],
       "subjuntivo": ["hierva", "hiervas", "hierva", "hirvamos", "hiervan"]
     },
     "huir": {
-      "present": ["huyo", "huyes", "huye", null, "huyen"],
+      "presente": ["huyo", "huyes", "huye", null, "huyen"],
       "pretérito": [null, null, "huyó", null, "huyeron"],
       "subjuntivo": ["huya", "huyas", "huya", "huyamos", "huyan"]
     },
     "imprimir": {},
     "incluir": {
-      "present": ["incluyo", "incluyes", "incluye", null, "incluyen"],
+      "presente": ["incluyo", "incluyes", "incluye", null, "incluyen"],
       "pretérito": [null, null, "incluyó", null, "incluyeron"],
       "subjuntivo": ["incluya", "incluyas", "incluya", "incluyamos", "incluyan"]
     },
@@ -1377,17 +1373,17 @@
       "subjuntivo": ["indique", "indiques", "indique", "indiquemos", "indiquen"]
     },
     "inducir": {
-      "present": ["induzco", null, null, null, null],
+      "presente": ["induzco", null, null, null, null],
       "pretérito": ["induje", "indujiste", "indujo", "indujimos", "indujeron"],
       "subjuntivo": ["induzca", "induzcas", "induzca", "induzcamos", "induzcan"]
     },
     "influir": {
-      "present": ["influyo", "influyes", "influye", null, "influyen"],
+      "presente": ["influyo", "influyes", "influye", null, "influyen"],
       "pretérito": [null, null, "influyó", null, "influyeron"],
       "subjuntivo": ["influya", "influyas", "influya", "influyamos", "influyan"]
     },
     "introducir": {
-      "present": ["introduzco", null, null, null, null],
+      "presente": ["introduzco", null, null, null, null],
       "pretérito": [
         "introduje",
         "introdujiste",
@@ -1404,7 +1400,7 @@
       ]
     },
     "invertir": {
-      "present": ["invierto", "inviertes", "invierte", null, "invierten"],
+      "presente": ["invierto", "inviertes", "invierte", null, "invierten"],
       "pretérito": [null, null, "invirtió", null, "invirtieron"],
       "subjuntivo": [
         "invierta",
@@ -1429,13 +1425,13 @@
       "subjuntivo": ["invoque", "invoques", "invoque", "invoquemos", "invoquen"]
     },
     "ir": {
-      "present": ["voy", "vas", "va", "vamos", "van"],
+      "presente": ["voy", "vas", "va", "vamos", "van"],
       "imperfecto": ["iba", "ibas", "iba", "íbamos", "iban"],
       "pretérito": ["fui", "fuiste", "fue", "fuimos", "fueron"],
       "subjuntivo": ["vaya", "vayas", "vaya", "vayamos", "vayan"]
     },
     "jugar": {
-      "present": ["juego", "juegas", "juega", null, "juegan"],
+      "presente": ["juego", "juegas", "juega", null, "juegan"],
       "pretérito": ["jugué", null, null, null, null],
       "subjuntivo": ["juegue", "juegues", "juegue", "juguemos", "jueguen"]
     },
@@ -1443,9 +1439,7 @@
       "pretérito": ["lancé", null, null, null, null],
       "subjuntivo": ["lance", "lances", "lance", "lancemos", "lancen"]
     },
-    "leer": {
-      "pretérito": [null, "leíste", "leyó", "leímos", "leyeron"]
-    },
+    "leer": { "pretérito": [null, "leíste", "leyó", "leímos", "leyeron"] },
     "legalizar": {
       "pretérito": ["legalicé", null, null, null, null],
       "subjuntivo": [
@@ -1461,11 +1455,11 @@
       "subjuntivo": ["llegue", "llegues", "llegue", "lleguemos", "lleguen"]
     },
     "llover": {
-      "present": ["lluevo", "llueves", "llueve", null, "llueven"],
+      "presente": ["lluevo", "llueves", "llueve", null, "llueven"],
       "subjuntivo": ["llueva", "lluevas", "llueva", null, "lluevan"]
     },
     "mantener": {
-      "present": ["mantengo", "mantienes", "mantiene", null, "mantienen"],
+      "presente": ["mantengo", "mantienes", "mantiene", null, "mantienen"],
       "futuro": [
         "mantendré",
         "mantendrás",
@@ -1510,21 +1504,21 @@
       ]
     },
     "medir": {
-      "present": ["mido", "mides", "mide", null, "miden"],
+      "presente": ["mido", "mides", "mide", null, "miden"],
       "pretérito": [null, null, "midió", null, "midieron"],
       "subjuntivo": ["mida", "midas", "mida", "midamos", "midan"]
     },
     "mentir": {
-      "present": ["miento", "mientes", "miente", null, "mienten"],
+      "presente": ["miento", "mientes", "miente", null, "mienten"],
       "pretérito": [null, null, "mintió", null, "mintieron"],
       "subjuntivo": ["mienta", "mientas", "mienta", "mintamos", "mientan"]
     },
     "merecer": {
-      "present": ["merezco", null, null, null, null],
+      "presente": ["merezco", null, null, null, null],
       "subjuntivo": ["merezca", "merezcas", "merezca", "merezcamos", "merezcan"]
     },
     "merendar": {
-      "present": ["meriendo", "meriendas", "merienda", null, "meriendan"],
+      "presente": ["meriendo", "meriendas", "merienda", null, "meriendan"],
       "subjuntivo": ["meriende", "meriendes", "meriende", null, "merienden"]
     },
     "modificar": {
@@ -1538,20 +1532,20 @@
       ]
     },
     "morir": {
-      "present": ["muero", "mueres", "muere", null, "mueren"],
+      "presente": ["muero", "mueres", "muere", null, "mueren"],
       "pretérito": [null, null, "murió", null, "murieron"],
       "subjuntivo": ["muera", "mueras", "muera", "muramos", "mueran"]
     },
     "mostrar": {
-      "present": ["muestro", "muestras", "muestra", null, "muestran"],
+      "presente": ["muestro", "muestras", "muestra", null, "muestran"],
       "subjuntivo": ["muestre", "muestres", "muestre", null, "muestren"]
     },
     "mover": {
-      "present": ["muevo", "mueves", "mueve", null, "mueven"],
+      "presente": ["muevo", "mueves", "mueve", null, "mueven"],
       "subjuntivo": ["mueva", "muevas", "mueva", null, "muevan"]
     },
     "nacer": {
-      "present": ["nazco", null, null, null, null],
+      "presente": ["nazco", null, null, null, null],
       "subjuntivo": ["nazca", "nazcas", "nazca", "nazcamos", "nazcan"]
     },
     "navegar": {
@@ -1559,16 +1553,16 @@
       "subjuntivo": ["navegue", "navegues", "navegue", "naveguemos", "naveguen"]
     },
     "negar": {
-      "present": ["niego", "niegas", "niega", null, "niegan"],
+      "presente": ["niego", "niegas", "niega", null, "niegan"],
       "pretérito": ["negué", null, null, null, null],
       "subjuntivo": ["niegue", "niegues", "niegue", "neguemos", "nieguen"]
     },
     "nevar": {
-      "present": ["nievo", "nievas", "nieva", null, "nievan"],
+      "presente": ["nievo", "nievas", "nieva", null, "nievan"],
       "subjuntivo": ["nieve", "nieves", "nieve", null, "nieven"]
     },
     "obedecer": {
-      "present": ["obedezco", null, null, null, null],
+      "presente": ["obedezco", null, null, null, null],
       "subjuntivo": [
         "obedezca",
         "obedezcas",
@@ -1582,7 +1576,7 @@
       "subjuntivo": ["obligue", "obligues", "obligue", "obliguemos", "obliguen"]
     },
     "obtener": {
-      "present": ["obtengo", "obtienes", "obtiene", null, "obtienen"],
+      "presente": ["obtengo", "obtienes", "obtiene", null, "obtienen"],
       "futuro": [
         "obtendré",
         "obtendrás",
@@ -1601,15 +1595,15 @@
       "subjuntivo": ["obtenga", "obtengas", "obtenga", "obtengamos", "obtengan"]
     },
     "ofrecer": {
-      "present": ["ofrezco", null, null, null, null],
+      "presente": ["ofrezco", null, null, null, null],
       "subjuntivo": ["ofrezca", "ofrezcas", "ofrezca", "ofrezcamos", "ofrezcan"]
     },
     "oler": {
-      "present": ["huelo", "hueles", "huele", null, "huelen"],
+      "presente": ["huelo", "hueles", "huele", null, "huelen"],
       "subjuntivo": ["huela", "huelas", "huela", null, "huelan"]
     },
     "oponer": {
-      "present": ["opongo", null, null, null, null],
+      "presente": ["opongo", null, null, null, null],
       "futuro": ["opondré", "opondrás", "opondrá", "opondremos", "opondrán"],
       "pretérito": ["opuse", "opusiste", "opuso", "opusimos", "opusieron"],
       "condicional": [
@@ -1632,12 +1626,12 @@
       ]
     },
     "oír": {
-      "present": ["oigo", "oyes", "oye", "oímos", "oyen"],
+      "presente": ["oigo", "oyes", "oye", "oímos", "oyen"],
       "pretérito": [null, "oíste", "oyó", "oímos", "oyeron"],
       "subjuntivo": ["oiga", "oigas", "oiga", "oigamos", "oigan"]
     },
     "padecer": {
-      "present": ["padezco", null, null, null, null],
+      "presente": ["padezco", null, null, null, null],
       "subjuntivo": ["padezca", "padezcas", "padezca", "padezcamos", "padezcan"]
     },
     "pagar": {
@@ -1645,11 +1639,11 @@
       "subjuntivo": ["pague", "pagues", "pague", "paguemos", "paguen"]
     },
     "parecer": {
-      "present": ["parezco", null, null, null, null],
+      "presente": ["parezco", null, null, null, null],
       "subjuntivo": ["parezca", "parezcas", "parezca", "parezcamos", "parezcan"]
     },
     "pedir": {
-      "present": ["pido", "pides", "pide", null, "piden"],
+      "presente": ["pido", "pides", "pide", null, "piden"],
       "pretérito": [null, null, "pidió", null, "pidieron"],
       "subjuntivo": ["pida", "pidas", "pida", "pidamos", "pidan"]
     },
@@ -1658,15 +1652,15 @@
       "subjuntivo": ["pegue", "pegues", "pegue", "peguemos", "peguen"]
     },
     "pensar": {
-      "present": ["pienso", "piensas", "piensa", null, "piensan"],
+      "presente": ["pienso", "piensas", "piensa", null, "piensan"],
       "subjuntivo": ["piense", "pienses", "piense", null, "piensen"]
     },
     "perder": {
-      "present": ["pierdo", "pierdes", "pierde", null, "pierden"],
+      "presente": ["pierdo", "pierdes", "pierde", null, "pierden"],
       "subjuntivo": ["pierda", "pierdas", "pierda", null, "pierdan"]
     },
     "permanecer": {
-      "present": ["permanezco", null, null, null, null],
+      "presente": ["permanezco", null, null, null, null],
       "subjuntivo": [
         "permanezca",
         "permanezcas",
@@ -1676,12 +1670,12 @@
       ]
     },
     "perseguir": {
-      "present": ["persigo", "persigues", "persigue", null, "persiguen"],
+      "presente": ["persigo", "persigues", "persigue", null, "persiguen"],
       "pretérito": [null, null, "persiguió", null, "persiguieron"],
       "subjuntivo": ["persiga", "persigas", "persiga", "persigamos", "persigan"]
     },
     "pertenecer": {
-      "present": ["pertenezco", null, null, null, null],
+      "presente": ["pertenezco", null, null, null, null],
       "subjuntivo": [
         "pertenezca",
         "pertenezcas",
@@ -1709,14 +1703,14 @@
       ]
     },
     "poder": {
-      "present": ["puedo", "puedes", "puede", null, "pueden"],
+      "presente": ["puedo", "puedes", "puede", null, "pueden"],
       "futuro": ["podré", "podrás", "podrá", "podremos", "podrán"],
       "pretérito": ["pude", "pudiste", "pudo", "pudimos", "pudieron"],
       "condicional": ["podría", "podrías", "podría", "podríamos", "podrían"],
       "subjuntivo": ["pueda", "puedas", "pueda", null, "puedan"]
     },
     "poner": {
-      "present": ["pongo", null, null, null, null],
+      "presente": ["pongo", null, null, null, null],
       "futuro": ["pondré", "pondrás", "pondrá", "pondremos", "pondrán"],
       "pretérito": ["puse", "pusiste", "puso", "pusimos", "pusieron"],
       "condicional": [
@@ -1742,7 +1736,7 @@
       ]
     },
     "predecir": {
-      "present": ["predigo", "predices", "predice", null, "predicen"],
+      "presente": ["predigo", "predices", "predice", null, "predicen"],
       "pretérito": [
         "predije",
         "predijiste",
@@ -1767,7 +1761,7 @@
       ]
     },
     "preferir": {
-      "present": ["prefiero", "prefieres", "prefiere", null, "prefieren"],
+      "presente": ["prefiero", "prefieres", "prefiere", null, "prefieren"],
       "pretérito": [null, null, "prefirió", null, "prefirieron"],
       "subjuntivo": [
         "prefiera",
@@ -1778,7 +1772,7 @@
       ]
     },
     "presentir": {
-      "present": ["presiento", "presientes", "presiente", null, "presienten"],
+      "presente": ["presiento", "presientes", "presiente", null, "presienten"],
       "pretérito": [null, null, "presintió", null, "presintieron"],
       "subjuntivo": [
         "presienta",
@@ -1789,7 +1783,7 @@
       ]
     },
     "prever": {
-      "present": ["preveo", "prevés", "prevé", null, "prevén"],
+      "presente": ["preveo", "prevés", "prevé", null, "prevén"],
       "imperfecto": [
         "preveía",
         "preveías",
@@ -1800,11 +1794,11 @@
       "subjuntivo": ["prevea", "preveas", "prevea", "preveamos", "prevean"]
     },
     "probar": {
-      "present": ["pruebo", "pruebas", "prueba", null, "prueban"],
+      "presente": ["pruebo", "pruebas", "prueba", null, "prueban"],
       "subjuntivo": ["pruebe", "pruebes", "pruebe", null, "prueben"]
     },
     "producir": {
-      "present": ["produzco", null, null, null, null],
+      "presente": ["produzco", null, null, null, null],
       "pretérito": [
         "produje",
         "produjiste",
@@ -1821,11 +1815,11 @@
       ]
     },
     "prohibir": {
-      "present": ["prohíbo", "prohíbes", "prohíbe", null, "prohíben"],
+      "presente": ["prohíbo", "prohíbes", "prohíbe", null, "prohíben"],
       "subjuntivo": ["prohíba", "prohíbas", "prohíba", null, "prohíban"]
     },
     "proponer": {
-      "present": ["propongo", null, null, null, null],
+      "presente": ["propongo", null, null, null, null],
       "futuro": [
         "propondré",
         "propondrás",
@@ -1856,12 +1850,12 @@
       ]
     },
     "proseguir": {
-      "present": ["prosigo", "prosigues", "prosigue", null, "prosiguen"],
+      "presente": ["prosigo", "prosigues", "prosigue", null, "prosiguen"],
       "pretérito": [null, null, "prosiguió", null, "prosiguieron"],
       "subjuntivo": ["prosiga", "prosigas", "prosiga", "prosigamos", "prosigan"]
     },
     "proteger": {
-      "present": ["protejo", null, null, null, null],
+      "presente": ["protejo", null, null, null, null],
       "subjuntivo": ["proteja", "protejas", "proteja", "protejamos", "protejan"]
     },
     "provocar": {
@@ -1895,12 +1889,12 @@
       ]
     },
     "quebrar": {
-      "present": ["quiebro", "quiebras", "quiebra", null, "quiebran"],
+      "presente": ["quiebro", "quiebras", "quiebra", null, "quiebran"],
       "subjuntivo": ["quiebre", "quiebres", "quiebre", null, "quiebren"]
     },
     "querer": {
       "futuro": ["querré", "querrás", "querrá", "querremos", "querrán"],
-      "present": ["quiero", "quieres", "quiere", null, "quieren"],
+      "presente": ["quiero", "quieres", "quiere", null, "quieren"],
       "pretérito": ["quise", "quisiste", "quiso", "quisimos", "quisieron"],
       "condicional": [
         "querría",
@@ -1921,10 +1915,10 @@
     },
     "recoger": {
       "subjuntivo": ["recoja", "recojas", "recoja", "recojamos", "recojan"],
-      "present": ["recojo", null, null, null, null]
+      "presente": ["recojo", null, null, null, null]
     },
     "recomendar": {
-      "present": [
+      "presente": [
         "recomiendo",
         "recomiendas",
         "recomienda",
@@ -1940,7 +1934,7 @@
       ]
     },
     "reconocer": {
-      "present": ["reconozco", null, null, null, null],
+      "presente": ["reconozco", null, null, null, null],
       "subjuntivo": [
         "reconozca",
         "reconozcas",
@@ -1950,38 +1944,38 @@
       ]
     },
     "recordar": {
-      "present": ["recuerdo", "recuerdas", "recuerda", null, "recuerdan"],
+      "presente": ["recuerdo", "recuerdas", "recuerda", null, "recuerdan"],
       "subjuntivo": ["recuerde", "recuerdes", "recuerde", null, "recuerden"]
     },
     "reducir": {
-      "present": ["reduzco", null, null, null, null],
+      "presente": ["reduzco", null, null, null, null],
       "pretérito": ["reduje", "redujiste", "redujo", "redujimos", "redujeron"],
       "subjuntivo": ["reduzca", "reduzcas", "reduzca", "reduzcamos", "reduzcan"]
     },
     "regar": {
-      "present": ["riego", "riegas", "riega", null, "riegan"],
+      "presente": ["riego", "riegas", "riega", null, "riegan"],
       "pretérito": ["regué", null, null, null, null],
       "subjuntivo": ["riegue", "riegues", "riegue", "reguemos", "rieguen"]
     },
     "regir": {
-      "present": ["rijo", "riges", "rige", null, "rigen"],
+      "presente": ["rijo", "riges", "rige", null, "rigen"],
       "pretérito": [null, null, "rigió", null, "rigieron"],
       "subjuntivo": ["rija", "rijas", "rija", "rijamos", "rijan"]
     },
     "rehusar": {
-      "present": ["rehúso", "rehúsas", "rehúsa", null, "rehúsan"],
+      "presente": ["rehúso", "rehúsas", "rehúsa", null, "rehúsan"],
       "subjuntivo": ["rehúse", "rehúses", "rehúse", null, "rehúsen"]
     },
     "renacer": {
-      "present": ["renazco", null, null, null, null],
+      "presente": ["renazco", null, null, null, null],
       "subjuntivo": ["renazca", "renazcas", "renazca", "renazcamos", "renazcan"]
     },
     "renovar": {
-      "present": ["renuevo", "renuevas", "renueva", null, "renuevan"],
+      "presente": ["renuevo", "renuevas", "renueva", null, "renuevan"],
       "subjuntivo": ["renueve", "renueves", "renueve", null, "renueven"]
     },
     "repetir": {
-      "present": ["repito", "repites", "repite", null, "repiten"],
+      "presente": ["repito", "repites", "repite", null, "repiten"],
       "pretérito": [null, null, "repitió", null, "repitieron"],
       "subjuntivo": ["repita", "repitas", "repita", "repitamos", "repitan"]
     },
@@ -1996,7 +1990,7 @@
       ]
     },
     "requerir": {
-      "present": ["requiero", "requieres", "requiere", null, "requieren"],
+      "presente": ["requiero", "requieres", "requiere", null, "requieren"],
       "pretérito": [null, null, "requirió", null, "requirieron"],
       "subjuntivo": [
         "requiera",
@@ -2007,7 +2001,7 @@
       ]
     },
     "resolver": {
-      "present": ["resuelvo", "resuelves", "resuelve", null, "resuelven"],
+      "presente": ["resuelvo", "resuelves", "resuelve", null, "resuelven"],
       "subjuntivo": ["resuelva", "resuelvas", "resuelva", null, "resuelvan"]
     },
     "rezar": {
@@ -2015,23 +2009,23 @@
       "subjuntivo": ["rece", "reces", "rece", "recemos", "recen"]
     },
     "reír": {
-      "present": ["río", "ríes", "ríe", "reímos", "ríen"],
+      "presente": ["río", "ríes", "ríe", "reímos", "ríen"],
       "pretérito": [null, "reíste", "rio", "reímos", "rieron"],
       "subjuntivo": ["ría", "rías", "ría", "riamos", "rían"]
     },
     "reñir": {
-      "present": ["riño", "riñes", "riñe", null, "riñen"],
+      "presente": ["riño", "riñes", "riñe", null, "riñen"],
       "pretérito": [null, null, "riñó", null, "riñeron"],
       "subjuntivo": ["riña", "riñas", "riña", "riñamos", "riñan"]
     },
     "rogar": {
-      "present": ["ruego", "ruegas", "ruega", null, "ruegan"],
+      "presente": ["ruego", "ruegas", "ruega", null, "ruegan"],
       "pretérito": ["rogué", null, null, null, null],
       "subjuntivo": ["ruegue", "ruegues", "ruegue", "roguemos", "rueguen"]
     },
     "romper": {},
     "saber": {
-      "present": ["sé", null, null, null, null],
+      "presente": ["sé", null, null, null, null],
       "futuro": ["sabré", "sabrás", "sabrá", "sabremos", "sabrán"],
       "pretérito": ["supe", "supiste", "supo", "supimos", "supieron"],
       "condicional": ["sabría", "sabrías", "sabría", "sabríamos", "sabrían"],
@@ -2052,7 +2046,7 @@
       ]
     },
     "salir": {
-      "present": ["salgo", null, null, null, null],
+      "presente": ["salgo", null, null, null, null],
       "futuro": ["saldré", "saldrás", "saldrá", "saldremos", "saldrán"],
       "condicional": [
         "saldría",
@@ -2074,7 +2068,7 @@
       ]
     },
     "satisfacer": {
-      "present": ["satisfago", null, null, null, null],
+      "presente": ["satisfago", null, null, null, null],
       "futuro": [
         "satisfaré",
         "satisfarás",
@@ -2109,27 +2103,27 @@
       "subjuntivo": ["seque", "seques", "seque", "sequemos", "sequen"]
     },
     "seguir": {
-      "present": ["sigo", "sigues", "sigue", null, "siguen"],
+      "presente": ["sigo", "sigues", "sigue", null, "siguen"],
       "pretérito": [null, null, "siguió", null, "siguieron"],
       "subjuntivo": ["siga", "sigas", "siga", "sigamos", "sigan"]
     },
     "sentar": {
-      "present": ["siento", "sientas", "sienta", null, "sientan"],
+      "presente": ["siento", "sientas", "sienta", null, "sientan"],
       "subjuntivo": ["siente", "sientes", "siente", null, "sienten"]
     },
     "sentir": {
-      "present": ["siento", "sientes", "siente", null, "sienten"],
+      "presente": ["siento", "sientes", "siente", null, "sienten"],
       "pretérito": [null, null, "sintió", null, "sintieron"],
       "subjuntivo": ["sienta", "sientas", "sienta", "sintamos", "sientan"]
     },
     "ser": {
-      "present": ["soy", "eres", "es", "somos", "son"],
+      "presente": ["soy", "eres", "es", "somos", "son"],
       "imperfecto": ["era", "eras", "era", "éramos", "eran"],
       "pretérito": ["fui", "fuiste", "fue", "fuimos", "fueron"],
       "subjuntivo": ["sea", "seas", "sea", "seamos", "sean"]
     },
     "servir": {
-      "present": ["sirvo", "sirves", "sirve", null, "sirven"],
+      "presente": ["sirvo", "sirves", "sirve", null, "sirven"],
       "pretérito": [null, null, "sirvió", null, "sirvieron"],
       "subjuntivo": ["sirva", "sirvas", "sirva", "sirvamos", "sirvan"]
     },
@@ -2154,33 +2148,33 @@
       ]
     },
     "situar": {
-      "present": ["sitúo", "sitúas", "sitúa", null, "sitúan"],
+      "presente": ["sitúo", "sitúas", "sitúa", null, "sitúan"],
       "subjuntivo": ["sitúe", "sitúes", "sitúe", null, "sitúen"]
     },
     "soler": {
-      "present": ["suelo", "sueles", "suele", null, "suelen"],
+      "presente": ["suelo", "sueles", "suele", null, "suelen"],
       "subjuntivo": ["suela", "suelas", "suela", null, "suelan"]
     },
     "sonar": {
-      "present": ["sueno", "suenas", "suena", null, "suenan"],
+      "presente": ["sueno", "suenas", "suena", null, "suenan"],
       "subjuntivo": ["suene", "suenes", "suene", null, "suenen"]
     },
     "sonreír": {
-      "present": ["sonrío", "sonríes", "sonríe", "sonreímos", "sonríen"],
+      "presente": ["sonrío", "sonríes", "sonríe", "sonreímos", "sonríen"],
       "pretérito": [null, "sonreíste", "sonrió", "sonreímos", "sonrieron"],
       "subjuntivo": ["sonría", "sonrías", "sonría", "sonriamos", "sonrían"]
     },
     "soñar": {
-      "present": ["sueño", "sueñas", "sueña", null, "sueñan"],
+      "presente": ["sueño", "sueñas", "sueña", null, "sueñan"],
       "subjuntivo": ["sueñe", "sueñes", "sueñe", null, "sueñen"]
     },
     "sugerir": {
       "pretérito": [null, null, "sugirió", null, "sugirieron"],
-      "present": ["sugiero", "sugieres", "sugiere", null, "sugieren"],
+      "presente": ["sugiero", "sugieres", "sugiere", null, "sugieren"],
       "subjuntivo": ["sugiera", "sugieras", "sugiera", "sugiramos", "sugieran"]
     },
     "suponer": {
-      "present": ["supongo", null, null, null, null],
+      "presente": ["supongo", null, null, null, null],
       "futuro": [
         "supondré",
         "supondrás",
@@ -2199,11 +2193,11 @@
       "subjuntivo": ["suponga", "supongas", "suponga", "supongamos", "supongan"]
     },
     "surgir": {
-      "present": ["surjo", null, null, null, null],
+      "presente": ["surjo", null, null, null, null],
       "subjuntivo": ["surja", "surjas", "surja", "surjamos", "surjan"]
     },
     "sustituir": {
-      "present": ["sustituyo", "sustituyes", "sustituye", null, "sustituyen"],
+      "presente": ["sustituyo", "sustituyes", "sustituye", null, "sustituyen"],
       "pretérito": [null, null, "sustituyó", null, "sustituyeron"],
       "subjuntivo": [
         "sustituya",
@@ -2213,11 +2207,9 @@
         "sustituyan"
       ]
     },
-    "tañer": {
-      "pretérito": [null, null, "tañó", null, "tañeron"]
-    },
+    "tañer": { "pretérito": [null, null, "tañó", null, "tañeron"] },
     "tener": {
-      "present": ["tengo", "tienes", "tiene", null, "tienen"],
+      "presente": ["tengo", "tienes", "tiene", null, "tienen"],
       "futuro": ["tendré", "tendrás", "tendrá", "tendremos", "tendrán"],
       "pretérito": ["tuve", "tuviste", "tuvo", "tuvimos", "tuvieron"],
       "condicional": [
@@ -2230,7 +2222,7 @@
       "subjuntivo": ["tenga", "tengas", "tenga", "tengamos", "tengan"]
     },
     "teñir": {
-      "present": ["tiño", "tiñes", "tiñe", null, "tiñen"],
+      "presente": ["tiño", "tiñes", "tiñe", null, "tiñen"],
       "pretérito": [null, null, "tiñó", null, "tiñeron"],
       "subjuntivo": ["tiña", "tiñas", "tiña", "tiñamos", "tiñan"]
     },
@@ -2239,11 +2231,11 @@
       "subjuntivo": ["toque", "toques", "toque", "toquemos", "toquen"]
     },
     "torcer": {
-      "present": ["tuerzo", "tuerces", "tuerce", null, "tuercen"],
+      "presente": ["tuerzo", "tuerces", "tuerce", null, "tuercen"],
       "subjuntivo": ["tuerza", "tuerzas", "tuerza", "torzamos", "tuerzan"]
     },
     "traducir": {
-      "present": ["traduzco", null, null, null, null],
+      "presente": ["traduzco", null, null, null, null],
       "pretérito": [
         "traduje",
         "tradujiste",
@@ -2260,7 +2252,7 @@
       ]
     },
     "traer": {
-      "present": ["traigo", null, null, null, null],
+      "presente": ["traigo", null, null, null, null],
       "pretérito": ["traje", "trajiste", "trajo", "trajimos", "trajeron"],
       "subjuntivo": ["traiga", "traigas", "traiga", "traigamos", "traigan"]
     },
@@ -2269,7 +2261,7 @@
       "subjuntivo": ["trague", "tragues", "trague", "traguemos", "traguen"]
     },
     "tropezar": {
-      "present": ["tropiezo", "tropiezas", "tropieza", null, "tropiezan"],
+      "presente": ["tropiezo", "tropiezas", "tropieza", null, "tropiezan"],
       "pretérito": ["tropecé", null, null, null, null],
       "subjuntivo": [
         "tropiece",
@@ -2288,11 +2280,11 @@
       "subjuntivo": ["utilice", "utilices", "utilice", "utilicemos", "utilicen"]
     },
     "vaciar": {
-      "present": ["vacío", "vacías", "vacía", null, "vacían"],
+      "presente": ["vacío", "vacías", "vacía", null, "vacían"],
       "subjuntivo": ["vacíe", "vacíes", "vacíe", null, "vacíen"]
     },
     "valer": {
-      "present": ["valgo", null, null, null, null],
+      "presente": ["valgo", null, null, null, null],
       "futuro": ["valdré", "valdrás", "valdrá", "valdremos", "valdrán"],
       "condicional": [
         "valdría",
@@ -2304,15 +2296,15 @@
       "subjuntivo": ["valga", "valgas", "valga", "valgamos", "valgan"]
     },
     "variar": {
-      "present": ["varío", "varías", "varía", null, "varían"],
+      "presente": ["varío", "varías", "varía", null, "varían"],
       "subjuntivo": ["varíe", "varíes", "varíe", null, "varíen"]
     },
     "vencer": {
-      "present": ["venzo", null, null, null, null],
+      "presente": ["venzo", null, null, null, null],
       "subjuntivo": ["venza", "venzas", "venza", "venzamos", "venzan"]
     },
     "venir": {
-      "present": ["vengo", "vienes", "viene", null, "vienen"],
+      "presente": ["vengo", "vienes", "viene", null, "vienen"],
       "futuro": ["vendré", "vendrás", "vendrá", "vendremos", "vendrán"],
       "pretérito": ["vine", "viniste", "vino", "vinimos", "vinieron"],
       "condicional": [
@@ -2325,7 +2317,7 @@
       "subjuntivo": ["venga", "vengas", "venga", "vengamos", "vengan"]
     },
     "ver": {
-      "present": ["veo", null, null, null, null],
+      "presente": ["veo", null, null, null, null],
       "imperfecto": ["veía", "veías", "veía", "veíamos", "veían"],
       "pretérito": ["vi", null, "vio", null, null],
       "subjuntivo": ["vea", "veas", "vea", "veamos", "vean"]
@@ -2341,20 +2333,20 @@
       ]
     },
     "vestir": {
-      "present": ["visto", "vistes", "viste", null, "visten"],
+      "presente": ["visto", "vistes", "viste", null, "visten"],
       "pretérito": [null, null, "vistió", null, "vistieron"],
       "subjuntivo": ["vista", "vistas", "vista", "vistamos", "vistan"]
     },
     "volar": {
-      "present": ["vuelo", "vuelas", "vuela", null, "vuelan"],
+      "presente": ["vuelo", "vuelas", "vuela", null, "vuelan"],
       "subjuntivo": ["vuele", "vueles", "vuele", null, "vuelen"]
     },
     "volver": {
-      "present": ["vuelvo", "vuelves", "vuelve", null, "vuelven"],
+      "presente": ["vuelvo", "vuelves", "vuelve", null, "vuelven"],
       "subjuntivo": ["vuelva", "vuelvas", "vuelva", null, "vuelvan"]
     },
     "yacer": {
-      "present": ["yazco", null, null, null, null],
+      "presente": ["yazco", null, null, null, null],
       "subjuntivo": ["yazca", "yazcas", "yazca", "yazcamos", "yazcan"]
     }
   }
