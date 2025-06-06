@@ -11,6 +11,47 @@ twind.install({
   },
 });
 
+async function makeClicker() {
+  try {
+    async function load(name) {
+      let res = await fetch('./audio/' + name);
+      let buf = await res.arrayBuffer();
+      let data = await ctx.decodeAudioData(buf);
+      return data;
+    }
+
+    const ctx = new AudioContext();
+    const gain = ctx.createGain();
+    gain.gain.value = 0.1;
+    gain.connect(ctx.destination);
+
+    let clickBufs = await Promise.all(
+      [1, 2, 3, 4, 5].map((i) => load(`click${i}.ogg`))
+    );
+    let submitBuf = await load('submit.ogg');
+
+    function play(buf) {
+      const src = ctx.createBufferSource();
+      src.buffer = buf;
+      src.connect(gain);
+      src.start(ctx.currentTime);
+    }
+    return {
+      click() {
+        let i = (Math.random() * clickBufs.length) | 0;
+        play(clickBufs[i]);
+      },
+      next() {
+        play(submitBuf);
+      },
+    };
+  } catch (e) {
+    console.warn('Error initializing audio', e);
+    return { click() {}, next() {} };
+  }
+}
+const clicker = await makeClicker();
+
 const VERBS = await fetch('./verbs.json', { cache: 'force-cache' }).then(
   (res) => res.json()
 );
@@ -286,11 +327,19 @@ function App() {
       } else if (e.key === 'Enter') {
         if (allCorrect) {
           move(i + 1);
+          clicker.next();
         }
+      } else if (
+        !e.ctrlKey &&
+        !e.metaKey &&
+        !e.altKey &&
+        /^[A-Za-z]$/.test(e.key)
+      ) {
+        clicker.click();
       }
     };
     window.addEventListener('keydown', fn);
-    () => window.removeEventListener('keydown', fn);
+    return () => window.removeEventListener('keydown', fn);
   }, [move, allCorrect]);
 
   return html`<div class="h-screen flex flex-row items-center">
